@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and software devlopment
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me (do not)
+- 📫 How to reach me : @7vik31 on Instagram
 
 <!---
 Saatvik32/Saatvik32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
