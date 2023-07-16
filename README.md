@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Saatvik32
 - 👀 I’m interested in Web development and software devlopment
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on idk
+- 🌱 I’m currently learning JavaScript and Backend
 - 📫 How to reach me : @7vik31 on Instagram
 
 <!---
